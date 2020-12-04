@@ -6,6 +6,7 @@ authors = ["Hexx King <hexxking13@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+Faker = "^5.0.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
